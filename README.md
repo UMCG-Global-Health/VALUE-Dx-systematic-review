@@ -1,5 +1,7 @@
 # Economic analyses of respiratory tract infection diagnostics: a systematic review 
 
+[![DOI](https://zenodo.org/badge/363175133.svg)](https://zenodo.org/badge/latestdoi/363175133)
+
 This GitHub repository contains code to create the tables as presented in the manuscript mentioned above.
 
 ## Use of the script
