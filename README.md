@@ -4,7 +4,17 @@ This GitHub repository contains code to create the tables as presented in the ma
 
 ## Use of the script
 
-To get started you will need a recent version of R. The code uses the *checkpoint* package to make the code better reproducible and portable. Upon running the table_create.R script, a folder (.checkpoint) will be created in the working directory containing the required packages. The script will then create the tables and save them in the *output* folder.
+To get started you will need a recent version of R. The code uses the *checkpoint* package to make the code better reproducible and portable. Upon running the *table_create.R* script, a folder (*.checkpoint*) will be created in the working directory containing the required packages. The script will then create the tables and save them in the *output* folder.
+
+## Packages required
+
+- checkpoint
+- gt
+- dplyr
+- tidyr
+- stringr
+- scales
+- readr
 
 ## License
 
